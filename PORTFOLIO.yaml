@@ -1,0 +1,18 @@
+schema_version: 1
+repository: transportation-and-mobility-optimization
+role: umbrella
+axis: application
+area: transportation-mobility
+status: active
+owner: jorsacademy
+projects:
+  - bike-share-network-optimizer
+  - fleet-decarbonization-optimizer
+  - intercity-rail-fleet-circulation-optimization
+  - london-bike-share-demand-rebalancing
+  - multimodal-distribution-network-genetic-algorithm
+  - osm-dijkstra-travel-time-routing-optimization
+conventions:
+  provenance_records: true
+  reproducibility_expected: true
+  benchmark_assumptions_documented: true
