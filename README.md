@@ -13,6 +13,7 @@ This repository is the primary umbrella repository for this Jors Academy researc
 - [`london-bike-share-demand-rebalancing`](projects/london-bike-share-demand-rebalancing/)
 - [`multimodal-distribution-network-genetic-algorithm`](projects/multimodal-distribution-network-genetic-algorithm/)
 - [`osm-dijkstra-travel-time-routing-optimization`](projects/osm-dijkstra-travel-time-routing-optimization/)
+- [`wardrop-traffic-assignment-variational-inequality`](projects/wardrop-traffic-assignment-variational-inequality/) — user equilibrium, system optimum, and congestion pricing
 
 Each consolidated project keeps its own files and a `SOURCE_REPOSITORY.md` provenance record. The snapshot preserves the source repository's default-branch files at consolidation time; repository-level history and metadata remain separate from the snapshot.
 <!-- portfolio-umbrella:end -->

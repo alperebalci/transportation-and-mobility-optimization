@@ -12,6 +12,7 @@ projects:
   - london-bike-share-demand-rebalancing
   - multimodal-distribution-network-genetic-algorithm
   - osm-dijkstra-travel-time-routing-optimization
+  - wardrop-traffic-assignment-variational-inequality
 conventions:
   provenance_records: true
   reproducibility_expected: true
